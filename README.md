@@ -545,6 +545,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [RDF4J](http://rdf4j.org)
 - [Jena](http://jena.apache.org)
+- [owlapi](https://github.com/owlcs/owlapi) - The OWL API is a Java API for creating, manipulating and serialising OWL Ontologies.
 - [commons-rdf](http://commons.apache.org/proper/commons-rdf/)
 - [foafssl-java](https://github.com/bblfish/foafssl-java)
 - [soarql-dl-api](https://github.com/protegeproject/sparql-dl-api) - A query engine for SPARQL-DL.
@@ -759,6 +760,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [RDFConvert](https://sourceforge.net/projects/rdfconvert/) - RDFConvert is a simple command-line tool for converting RDF file betweeen different syntax formats.
 - [How to diff RDF](https://www.w3.org/2001/sw/wiki/How_to_diff_RDF)
 - [grlc](https://github.com/CLARIAH/grlc) - Web APIs from SPARQL queries.
+- [ROBOT](http://robot.obolibrary.org/) - A command-line tool and java library for transforming OBO and OWL content based on OWL API.
 
 ## Integrations
 
@@ -841,7 +843,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [sesametools](https://github.com/joshsh/sesametools)
 - [DEER](https://github.com/GeoKnow/DEER)
 - [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld)
-- [owlapi](https://github.com/owlcs/owlapi) - The OWL API is a Java API for creating, manipulating and serialising OWL Ontologies.
 - [LODGrefine](https://github.com/sparkica/LODGrefine)
 - [stardog.js](https://github.com/stardog-union/stardog.js)
 - [stardog-groovy](https://github.com/stardog-union/stardog-groovy)
